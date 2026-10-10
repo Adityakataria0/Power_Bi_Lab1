@@ -1,0 +1,9 @@
+SUBMISSION CHECKLIST
+
+[Included] RollNo_LA1_Report.pdf
+[Included] Cleaned_Sales.csv
+[Included] README.md
+
+[Still required if requested by faculty]
+[ ] RollNo_LA1.pbix
+[ ] RollNo_LA1.knwf
